@@ -18,9 +18,9 @@ Educational Fair Use Notice: Produced under Section 52 of the Indian Copyright A
       <itunes:category text="Courses" />
     </itunes:category>
     <itunes:category text="Government" />
-    <itunes:image href="https://raw.githubusercontent.com/jarvez31/automated-podcasts/main/audiobooks_cover.jpg" />
+    <itunes:image href="https://raw.githubusercontent.com/jarvez31/automated-podcasts/main/audiobooks_cover_v2.jpg" />
     <image>
-      <url>https://raw.githubusercontent.com/jarvez31/automated-podcasts/main/audiobooks_cover.jpg</url>
+      <url>https://raw.githubusercontent.com/jarvez31/automated-podcasts/main/audiobooks_cover_v2.jpg</url>
       <title>UPSC NCERT Audiobooks — Maargapp</title>
       <link>https://github.com/jarvez31/automated-podcasts</link>
     </image>
